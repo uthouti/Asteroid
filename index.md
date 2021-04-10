@@ -1,2 +1,2 @@
 # index file
-[UshaSri](one.md)
+[UshaSri](vri.md)
